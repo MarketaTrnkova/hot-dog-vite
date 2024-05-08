@@ -1,3 +1,5 @@
+Zdrojové soubory v neminifikované verzi
+
 <details>
   <summary> index.js </summary></summary>
   
@@ -96,9 +98,9 @@ export const renderToppings = () => {
 </details>
 
 <details>
-  <summary> index.html </summary></summary>
+  <summary> index.css </summary></summary>
   
-  ```index.css
+  ```css
     
    *{
   box-sizing: border-box;
