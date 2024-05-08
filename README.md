@@ -12,9 +12,11 @@
   });
 
 </details>
+
 ```
+
 <details>
-  <summary> hotdog.js </summary></summary>
+  <summary> hotdog.js </summary>
   
 ```javascript
   
@@ -66,6 +68,8 @@ export const renderToppings = () => {
     return prilohovyWrapper;
 }
 
+</details>
+
 ```
 <details>
   <summary> index.html </summary></summary>
@@ -87,8 +91,9 @@ export const renderToppings = () => {
         <script src="index.js" type="module"></script>
     </body>
   </html>
-  </details>
+
 ```
+</details>
 
 <details>
   <summary> index.html </summary></summary>
@@ -133,6 +138,6 @@ h1::after{
   flex-direction: column;
   align-items: center;
 }
-  </details>
-```
 
+```
+ </details>
