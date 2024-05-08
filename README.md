@@ -11,9 +11,9 @@
       rootElement.appendChild(renderToppings());
   });
 
+```
 </details>
 
-```
 
 <details>
   <summary> hotdog.js </summary>
@@ -68,9 +68,9 @@ export const renderToppings = () => {
     return prilohovyWrapper;
 }
 
+```
 </details>
 
-```
 <details>
   <summary> index.html </summary></summary>
   
